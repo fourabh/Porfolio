@@ -8,7 +8,7 @@ const Navbar = () => {
             <div className="n-name">Sourabh</div>
             <span>toggle</span>
         </div>
-
+   
         <div className="n-right">
             <div className="n-list">
                 <ul style={{listStyleType:"none"}} >
