@@ -19,7 +19,7 @@ const Navbar = () => {
                     <li>Testimonials</li>
                 </ul>
             </div>
-            <button className="button n-button">Contact Us</button>
+            <button className="button n-button">Contact</button>
         </div>
     </div>
   )

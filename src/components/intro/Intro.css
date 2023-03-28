@@ -48,5 +48,26 @@
 
 .i-right{
     flex:1;
-    
+    position: relative;
 }
+.i-right>img{
+    position: absolute;
+    transform: scale(0.6);
+    top: -300px;
+    left: 87px;
+    /* z-index: 1; */
+}
+/* .i-right:nth-child(1){
+    transform: scale(0.69);
+    left: -15%;
+    top: -9%;
+}
+.i-right:nth-child(2){
+    transform: scale(0.67);
+    left: -3rem;
+    top: -4.6rem;
+}
+.i-right:nth-child(3){
+    transform: scale(0.1);
+    left: -28%;
+} */
